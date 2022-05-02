@@ -1,8 +1,72 @@
-﻿@page
+﻿@page "/downloads"
 @model PrivacyModel
 @{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "Downloads";
 }
+<head><link rel="stylesheet" href="~/css/downloads.css"/></head>
+
+
 <h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<table style="text-align:center;">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Date</th>
+        <th>Status</th>
+    </tr>    
+    <tr>
+        <td>1</td>
+        <td>X-Box Software</td>
+        <td>12/25/2021</td>
+        <td><img src=~/img/xmark.png /></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td><a href="">Playstation Home Screen</a></td>
+        <td>1/1/2022</td>
+        <td><img src=~/img/checkmark.png /></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>My last project</td>
+        <td>2/5/2022</td>
+        <td><img src=~/img/xmark.png /></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Dr. Fu's Malicious Code</td>
+        <td>2/20/2022</td>
+        <td><img src=~/img/xmark.png /></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td><a href="">Quest 2 Developer Program</a></td>
+        <td>3/14/2022</td>
+        <td><img src=~/img/checkmark.png /></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>AmaZ0n Packaging Software</td>
+        <td>3/16/2022</td>
+        <td><img src=~/img/xmark.png /></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Student Center Ordering Software</td>
+        <td>4/20/2022</td>
+        <td><img src=~/img/loading.png /></td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>McDonald's Ice Cream Software</td>
+        <td>5/2/2022</td>
+        <td><img src=~/img/xmark.png /></td>
+    </tr>
+</table>
+
+<pre><span style="font-weight:bold;">Key:</span>
+    Bad Files - <img src=~/img/xmark.png /> 
+    Good Files - <img src=~/img/checkmark.png />
+    Pending Proof - <img src=~/img/loading.png />
+</pre>

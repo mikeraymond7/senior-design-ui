@@ -1,0 +1,27 @@
+body {
+    text-align:center;
+}
+
+table {
+    margin: auto;
+    margin-top: 20px;
+    width: 100%;
+}
+
+td, th {
+    padding: 5px;
+    width: 200px;
+    border: solid 1px black;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
+
+pre{
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: 'Arial', Times, serif;
+    /*text-align:left;*/
+}
