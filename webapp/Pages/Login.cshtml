@@ -1,0 +1,18 @@
+﻿@page "/"
+@using webapp.Pages
+@model IndexModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<script src="~/js/login.js"></script>
+<div class="text-center">
+    <h1 class="display-4">Login</h1>
+    <form>
+        <input type="text" id="uname" name="username" placeholder="username" />
+        <input type="text" id="pwd" name="password" placeholder="password" />
+        <input type="submit" id="submit" value="Submit" onclick="authorize()"/>
+    </form>
+
+
+</div>
