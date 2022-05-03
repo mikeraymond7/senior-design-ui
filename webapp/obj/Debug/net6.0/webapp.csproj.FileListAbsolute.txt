@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\gilli\Source\Repos\senior-design-ui\webapp\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\gilli\Source\Repos\senior-design-ui\webapp\bin\Debug\net6.0\appsettings.json
 C:\Users\gilli\Source\Repos\senior-design-ui\webapp\bin\Debug\net6.0\webapp.staticwebassets.runtime.json
@@ -24,3 +25,31 @@ C:\Users\gilli\Source\Repos\senior-design-ui\webapp\obj\Debug\net6.0\refint\weba
 C:\Users\gilli\Source\Repos\senior-design-ui\webapp\obj\Debug\net6.0\webapp.pdb
 C:\Users\gilli\Source\Repos\senior-design-ui\webapp\obj\Debug\net6.0\webapp.genruntimeconfig.cache
 C:\Users\gilli\Source\Repos\senior-design-ui\webapp\obj\Debug\net6.0\ref\webapp.dll
+=======
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\appsettings.json
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\webapp.staticwebassets.runtime.json
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\webapp.exe
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\webapp.deps.json
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\webapp.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\webapp.dll
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\bin\Debug\net6.0\webapp.pdb
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.RazorAssemblyInfo.cache
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.RazorAssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\scopedcss\bundle\webapp.styles.css
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\scopedcss\projectbundle\webapp.bundle.scp.css
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.dll
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\refint\webapp.dll
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.pdb
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\webapp.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp\obj\Debug\net6.0\ref\webapp.dll
+>>>>>>> a076952f8539a1a20bf5472954b00e10e4426c17
