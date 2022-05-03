@@ -15,16 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\micha\OneDrive\Documents\La Escuela\CSC\Senior Design\project\webapp\webapp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/micha/OneDrive/Documents/La Escuela/CSC/Senior Design/project/webapp/webapp/Pages/Downloads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/micha/OneDrive/Documents/La Escuela/CSC/Senior Design/project/webapp/webapp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/micha/OneDrive/Documents/La Escuela/CSC/Senior Design/project/webapp/webapp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/micha/OneDrive/Documents/La Escuela/CSC/Senior Design/project/webapp/webapp/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/micha/OneDrive/Documents/La Escuela/CSC/Senior Design/project/webapp/webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]

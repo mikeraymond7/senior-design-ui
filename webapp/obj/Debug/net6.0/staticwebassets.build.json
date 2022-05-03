@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+Bi4mgB0zDRt9zIZAV9bFf64ZxFwGYBrsVtsQQwpepc=",
+  "Hash": "9Cdd0cRPnq+krjrxcfapkfVWitYy/9a3NKl6sS35dic=",
   "Source": "webapp",
   "BasePath": "_content/webapp",
   "Mode": "Default",
@@ -117,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\checkmark.png"
+    },
+    {
+      "Identity": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\wwwroot\\img\\loading.png",
+      "SourceId": "webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\wwwroot\\",
+      "BasePath": "_content/webapp",
+      "RelativePath": "img/loading.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\loading.png"
+    },
+    {
+      "Identity": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\wwwroot\\img\\xmark.png",
+      "SourceId": "webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\wwwroot\\",
+      "BasePath": "_content/webapp",
+      "RelativePath": "img/xmark.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\xmark.png"
     },
     {
       "Identity": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\wwwroot\\js\\site.js",
