@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\micha\\.nuget\\packages\\": {}
+    "C:\\Users\\gilli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\webapp.csproj",
+      "projectUniqueName": "C:\\Users\\gilli\\Source\\Repos\\senior-design-ui\\webapp\\webapp.csproj",
       "projectName": "webapp",
-      "projectPath": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\webapp.csproj",
-      "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\OneDrive\\Documents\\La Escuela\\CSC\\Senior Design\\project\\webapp\\webapp\\obj\\",
+      "projectPath": "C:\\Users\\gilli\\Source\\Repos\\senior-design-ui\\webapp\\webapp.csproj",
+      "packagesPath": "C:\\Users\\gilli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gilli\\Source\\Repos\\senior-design-ui\\webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gilli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
