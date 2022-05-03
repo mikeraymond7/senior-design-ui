@@ -1,10 +1,19 @@
 ﻿@page
+@using webapp.Pages
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
+
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Login</h1>
+    <form>
+        <input type="text" id="input-username" name="username" placeholder="username" />
+        <input type="text" id="input-password" name="password" placeholder="password" />
+        <input type="submit" value="Submit" />
+    </form>
+
+
 </div>
