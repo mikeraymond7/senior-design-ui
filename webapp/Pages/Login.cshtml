@@ -1,18 +1,40 @@
 ﻿@page "/"
 @using webapp.Pages
+@using webapp.Controllers
 @model IndexModel
 @{
+    Layout = "_login";
     ViewData["Title"] = "Login";
 }
 
-<script src="~/js/login.js"></script>
+<script type="text/javascript">
+    function login() {
+        var uname = document.getElementById("uname").value;
+        var pwd = document.getElementById("pwd").value;
+        if (uname == "Username" && pwd == "Password"){
+            window.location.href = '/Downloads';
+        }
+        else{
+            alert("Incorrect Credentials :(")
+        }
+    }
+</script>
+
 <div class="text-center">
     <h1 class="display-4">Login</h1>
     <form>
         <input type="text" id="uname" name="username" placeholder="username" />
         <input type="text" id="pwd" name="password" placeholder="password" />
-        <input type="submit" id="submit" value="Submit" onclick="authorize()"/>
     </form>
-
-
+    <Button style="margin-top:10px;" onclick="login()">Login</Button>
 </div>
+
+
+
+<!-- 
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <p> <a asp-action="Form">Registration form</a>   </p>
+</div> -->
