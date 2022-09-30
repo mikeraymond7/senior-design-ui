@@ -1,16 +1,32 @@
 import os
 from flask import Flask, request, jsonify
-from firebase_admin import credentials, firestore, initialize_app
+from firebase_admin import credentials, firestore, initialize_app, storage
 
 app = Flask(__name__)
 
 cred = credentials.Certificate('../../key.json')
-default_app = initialize_app(cred)
+initialize_app(cred, {'storageBucket': 'groovy-groove-363915.appspot.com'})
 db = firestore.client()
 users_ref = db.collection('users')
 stats_ref = db.collection('stats')
 lifts_ref = db.collection('lifts')
 
+# File successfully uploads
+# Need to fully confirm with Download
+# Make it so that files can be uploaded by bytes
+@app.route('/uploadFile', methods=['GET'])
+def uploadFile():
+	try:
+		fileName = "../../test.txt"
+		bucket = storage.bucket()
+		blob = bucket.blob(fileName)
+		print(blob)
+		blob.upload_from_filename(fileName)
+		blob.make_public()
+		print("File URL: " + blob.public_url)
+		return jsonify({"success": True}), 201
+	except Exception as e:
+		return f"An Error Occured while uploading file: {e}."
 
 # https://medium.com/google-cloud/building-a-flask-python-crud-api-with-cloud-firestore-firebase-and-deploying-on-cloud-run-29a10c502877
 @app.route('/updateUsers', methods=['POST'])
