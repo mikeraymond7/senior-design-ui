@@ -1,3 +1,6 @@
 10/6/2022
 uploadFile (server)
   - successfully tested file upload operations with template webpage
+
+10/12/2022
+Note: Implement request.cookies in server code to maintain authentication
